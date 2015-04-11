@@ -6,4 +6,4 @@ Suggestions for new data, persona and scenario cards are very welcome.
 
 You can read more about the Ideation Toolkit at [http:codethecity.org/toolkit](http:codethecity.org/toolkit).
 
-
+![Ideation Identity](http://codethecity.org/assets/toolkit/cover.png)
